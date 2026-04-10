@@ -1,0 +1,5 @@
+ims.db.host=localhost
+ims.db.port=3306
+ims.db.name=ims
+ims.db.user=root
+ims.db.password=your_mysql_password

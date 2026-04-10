@@ -1,0 +1,7 @@
+target/
+bin/
+db.properties
+ims.db
+.vscode/
+.qodo/
+.sixth/
